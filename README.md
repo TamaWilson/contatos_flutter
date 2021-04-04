@@ -12,6 +12,15 @@ Projeto 6 do curso [Criação de Apps Android e iOS com Flutter](https://www.ude
 - Regex para validar o email;
 - Máscara para exibir o telefone no formato correto;
 
+# Revisão 2021
+- Atualizando projeto para Flutter 2.0
+- Sqlflite trocado por Moor para funcionar na web
+- Plugin de máscara atualizado para [flutter_multi_formatter](https://github.com/caseyryan/flutter_multi_formatter)
+- ImagePicker ajustado para funcionar na web
+
+---
+# Screnshots
+
 <div>
 <img src="./screenshot.png" width="200">
 <img src="./screenshot2.png" width="200">
